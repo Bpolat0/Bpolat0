@@ -64,7 +64,7 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
         alt="PostgreSQL"
@@ -73,7 +73,7 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
         width="48"
         height="48"
         alt="MongoDB"
@@ -293,7 +293,7 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
         src=""
         width="48"
         height="48"
-        alt="Insomnia"
+        alt=""
       />
       <br /><strong>Fully Responsive Landing Page</strong>
     </td>

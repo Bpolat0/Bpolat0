@@ -174,7 +174,7 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
         height="48"
         alt="Electron"
       />
-      <br /><strong>Electron</strong>
+      <br /><strong>Tauri</strong>
     </td>
     
     

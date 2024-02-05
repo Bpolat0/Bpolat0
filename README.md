@@ -6,7 +6,7 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
 - ⚡ My hobbies : **classical music, swimming, bodybuilding, computer games**
 - 👋 **You can contact me without hesitation. I can help you with your projects.**
 
-# Let's connect
+# Let's connect 🤝
 <p align="center">
   <a href="https://github.com/Bpolat0">
     <img src="https://skillicons.dev/icons?i=github" height="75" />

@@ -2,7 +2,7 @@
 
 My name is Batuhan. One of my biggest passions in life is everything related to computers and technology. So even if I sit at the desk for 10 hours, I try to turn this passion that I enjoy without getting bored into a job by changing the sector. So I continue to learn endlessly on the way to becoming a full-stack developer.
 
-- 🌱 I am currently trying to learn : html, css, js, react, nodejs, vite, tauri, electron in the front-end. In the back-end, I continue to improve myself by developing projects with java, spring boot, spring security, mongodb, postgreSQL, mySQL.**
+- 🌱 I am currently trying to learn : **html, css, js, react, nodejs, vite, tauri, electron in the front-end. In the back-end, I continue to improve myself by developing projects with java, spring boot, spring security, mongodb, postgreSQL, mySQL.**
 - ⚡ My hobbies : **classical music, swimming, bodybuilding, computer games**
 - 👋 **You can contact me without hesitation. I can help you with your projects.**
 

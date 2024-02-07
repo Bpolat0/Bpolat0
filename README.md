@@ -288,14 +288,14 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
       <br /><strong>Vetclinic REST API</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="" target="_blank">
+      <a href="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page?tab=readme-ov-file" target="_blank">
       <img
-        src=""
+        src="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page/blob/master/images/project/classes-section.png"
         width="48"
         height="48"
-        alt=""
+        alt="Landing Page"
       />
-      <br /><strong>Fully Responsive Landing Page</strong>
+      <br /><strong>Fully Responsive Landing</strong> 
     </td>
     <!-- Diğer tools ekleyebilirsiniz -->
   </tr>

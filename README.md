@@ -297,6 +297,16 @@ My name is Batuhan. One of my biggest passions in life is everything related to 
       />
       <br /><strong>Fully Responsive Landing</strong> 
     </td>
+         <td align="center" height="108" width="108">
+      <a href="https://github.com/Bpolat0/SpendBillGatesMoney" target="_blank">
+      <img
+        src="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page/blob/master/images/project/classes-section.png"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React - Spend Bill Gates Money</strong> 
+    </td>
     <!-- Diğer tools ekleyebilirsiniz -->
   </tr>
 </table>

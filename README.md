@@ -154,15 +154,15 @@
 > *Building in stealth. Real projects, actively in development. Follow me to catch each launch.*
 
 <p>
-  <img src="https://img.shields.io/badge/1-🤖_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2-🎨_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3-🧠_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/4-🔊_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/5-📄_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/6-🐝_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/7-🎛️_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/8-👁️_████████-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/9-🏠_████████-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/1_🤖-35%25-green?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/2_🎨-20%25-yellowgreen?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/3_🧠-45%25-green?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/4_🔊-15%25-yellow?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/5_📄-25%25-yellowgreen?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/6_🐝-30%25-green?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/7_🎛️-20%25-yellowgreen?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/8_👁️-70%25-brightgreen?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/9_🏠-40%25-green?style=for-the-badge&labelColor=111" />
 </p>
 
 ---
@@ -180,6 +180,10 @@
 
 <a href="https://github.com/Bpolat0?tab=repositories">
   <img src="https://img.shields.io/badge/See_My_Work-000?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="https://github.com/sponsors/Bpolat0">
+  <img src="https://img.shields.io/badge/Sponsor_Me-❤-pink?style=for-the-badge&logo=githubsponsors" />
 </a>
 &nbsp;
 <a href="https://automiflow.com">

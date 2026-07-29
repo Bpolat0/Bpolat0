@@ -9,7 +9,6 @@
 🔧 I build **AI-powered developer tools** and **enterprise integrations** at scale.<br>
 🧠 I architect **custom AI agents** — from CUDA kernels to autonomous infrastructure.<br>
 🏗️ I run a **self-hosted Proxmox homelab** with a live Claude agent that maintains itself 24/7.<br>
-🚀 Founder @ **[Automiflow](https://automiflow.com)** — AI, automation & integration consultancy.
 
 <br>
 
@@ -188,8 +187,5 @@
   <img src="https://img.shields.io/badge/Sponsor_Me-❤-pink?style=for-the-badge&logo=githubsponsors" />
 </a>
 &nbsp;
-<a href="https://automiflow.com">
-  <img src="https://img.shields.io/badge/Automiflow-0A1628?style=for-the-badge" />
-</a>
 
 </div>

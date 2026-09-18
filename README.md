@@ -2,7 +2,7 @@
 
 # Hey, I'm Batuhan 👋
 
-### AI Engineer & Open Source Developer | Building the agentic future with Claude
+### Open Source Developer | Building the agentic future with Claude
 
 <br>
 
